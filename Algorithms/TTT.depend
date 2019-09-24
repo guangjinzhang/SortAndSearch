@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1533688211 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\ttt\heapsort.c
+	<stdio.h>
+	<stdlib.h>
+	"SortingAlgos.h"
+
+1533759812 c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\ttt\sortingalgos.h
+
+1533688211 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\ttt\insertionsort.c
+	<stdio.h>
+	<stdlib.h>
+	"SortingAlgos.h"
+
+1469565494 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\ttt\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	"SortingAlgos.h"
+
+1533688211 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\ttt\selectionsort.c
+	<stdio.h>
+	<stdlib.h>
+	"SortingAlgos.h"
+
+1533688489 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\ttt\testerheapsortontheheap.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"SortingAlgos.h"
+
+1533688520 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\ttt\selectionsortfunction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"SortingAlgos.h"
+
+1533760131 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\ttt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"SortingAlgos.h"
+	"SearchAlgorithms.h"
+
+1533760188 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\ttt\searchalgorithms.c
+
+1533759825 c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\ttt\searchalgorithms.h
+
+1533766294 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\guangjinzhangfinalproject\code\heapsort.c
+	<stdio.h>
+	<stdlib.h>
+	"SortingAlgos.h"
+
+1533766230 c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\guangjinzhangfinalproject\code\sortingalgos.h
+
+1533766328 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\guangjinzhangfinalproject\code\insertionsort.c
+	<stdio.h>
+	<stdlib.h>
+	"SortingAlgos.h"
+
+1533766473 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\guangjinzhangfinalproject\code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"SortingAlgos.h"
+	"SearchAlgorithms.h"
+
+1533766195 c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\guangjinzhangfinalproject\code\searchalgorithms.h
+
+1533766366 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\guangjinzhangfinalproject\code\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	"SortingAlgos.h"
+
+1533766412 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\guangjinzhangfinalproject\code\searchalgorithms.c
+
+1533766440 source:c:\users\guangjin\desktop\s4\prog20799 data structures & algorithm development - c - 1185_45207\code\guangjinzhangfinalproject\code\selectionsort.c
+	<stdio.h>
+	<stdlib.h>
+	"SortingAlgos.h"
+
